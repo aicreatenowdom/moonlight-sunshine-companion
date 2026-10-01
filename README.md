@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://aicreatenow.com/">
-    <img src="organization-logo.png" alt="AI Creations Now Software Development" width="120" height="120">
+  <a href="https://aicreatenow.com/Moonlight.html">
+    <img src="moonlight-companion-headline.jpg" alt="AI Creations Now Moonlight and Sunshine Game Streaming Companion App — client and host diagnostics" width="900">
   </a>
 </p>
 
