@@ -45,6 +45,12 @@ Both complete apps are free through the email-request option, with delivery taki
 
 Use the [official download options](https://aicreatenow.com/Moonlight.html). For free delivery, email [info@aicreatenow.com](mailto:info@aicreatenow.com) with the subject **Request Moonlight Sunshine Companion App Download Link**. See [Support](SUPPORT.md) for delivery or diagnostic help.
 
+## Practical guide and release notes
+
+[Getting started and common questions](GETTING-STARTED.md) · [GitHub release notes](https://github.com/aicreatenowdom/moonlight-sunshine-companion/releases) · [Support](SUPPORT.md)
+
+GitHub's **Code → Download ZIP** contains this repository's documentation and artwork. Get the Windows application through the [official product page](https://aicreatenow.com/Moonlight.html).
+
 ## Source and licensing
 
 This repository contains documentation for proprietary software. Application source code is not included. Obtain the application and its applicable terms through the official product page.

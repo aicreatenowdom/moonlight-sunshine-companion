@@ -13,3 +13,12 @@ Keep passwords, access tokens, license keys and private customer information out
 ## Free delivery requests
 
 Email **info@aicreatenow.com** with the subject **Request Moonlight Sunshine Companion App Download Link**. Free delivery can take up to 24 hours. The optional $5 immediate-delivery route is available through the official product page; both routes include the same complete apps.
+
+## Before contacting support
+
+- Include whether the affected stream is local or remote and whether the selected endpoint is reachable from that computer.
+- When available, provide the incident UTC time and matching client/host exports through private support.
+
+[Product guide and common questions](GETTING-STARTED.md)
+
+GitHub's **Code → Download ZIP** contains this repository's documentation and artwork. Get the Windows application through the [official product page](https://aicreatenow.com/Moonlight.html).
